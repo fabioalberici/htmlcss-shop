@@ -20,13 +20,14 @@
   position: absolute;
   display: inline-block;
 }
+
 .contenitore {
   cursor: pointer;
 }
 .contenitore.hover {
   display: inline-block;
 }
-.scontodue {
+span {
   background-color: green;
   color: white;
 }
