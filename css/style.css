@@ -1,0 +1,32 @@
+* {
+  margin: 3px;
+  padding: 0px;
+  box-sizing: 0px;
+  border: 0px;
+  margin-top: 0px;
+  margin-left: 2px,
+}
+.contenitore {
+  width: 80%;
+  border: 1px solid grey;
+  margin: 0 auto;
+}
+.riga {
+  margin-top: 10px;
+  margin bottom: 40px;
+}
+/*riga uno*/
+.bloccouno.bloccodue {
+  position: absolute;
+  display: inline-block;
+}
+.contenitore {
+  cursor: pointer;
+}
+.contenitore.hover {
+  display: inline-block;
+}
+.scontodue {
+  background-color: green;
+  color: white;
+}
