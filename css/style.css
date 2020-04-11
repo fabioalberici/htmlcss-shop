@@ -17,7 +17,7 @@
 }
 /*riga uno*/
 .bloccouno.bloccodue {
-  position: absolute;
+  position: relative;
   display: inline-block;
 }
 
@@ -27,7 +27,63 @@
 .contenitore.hover {
   display: inline-block;
 }
-span {
+.scontoverde {
   background-color: green;
-  color: white;
+  color: black;
+  font-size: 75%;
+  width: 4%;
+  height: 3%;
+  position: absolute;
+  right: 12%;
+  bottom: 35%;
+}
+.scontoverdedue {
+  background-color: green;
+  color: black;
+  font-size: 75%;
+  width: 4%;
+  height: 3%;
+  position: absolute;
+  right: 12%;
+  top: 2%;
+}
+.scontoverdetre {
+  background-color: green;
+  color: black;
+  font-size: 75%;
+  width: 4%;
+  height: 3%;
+  position: absolute;
+  left: 32%;
+  top: 2%;
+}
+.scontoverdequattro {
+  background-color: green;
+  color: black;
+  font-size: 75%;
+  width: 4%;
+  height: 3%;
+  position: absolute;
+  left: 32%;
+  bottom: 35%;
+}
+.scontorossouno {
+  background-color: red;
+  color: black;
+  font-size: 75%;
+  width: 3%;
+  height: 3%;
+  position: absolute;
+  left: 59%;
+  bottom: 35%;
+}
+.scontorossodue {
+  background-color: red;
+  color: black;
+  font-size: 75%;
+  width: 3%;
+  height: 3%;
+  position: absolute;
+  left: 59%;
+  top: 2%;
 }
